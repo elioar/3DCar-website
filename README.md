@@ -1,6 +1,6 @@
 # 3D Car Animation Model - Nothing4us
 
-![Website Preview](https://placehold.it/800x400)
+![Website Preview](Screenshot.png)
 
 Welcome to the README for the 3D Car Animation Model website by Nothing4us. This repository contains the HTML, CSS, and JavaScript code for the website. Here, you will find information about the website's structure, technologies used, and how to set it up locally.
 
