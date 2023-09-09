@@ -34,4 +34,9 @@ To run this website locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/3d-car-animation.git
-
+   
+2. **Open the cloned directory:**
+   ```bash
+   cd 3d-car-animation
+   
+3. **Open the `index.html` file** in your preferred web browser.
